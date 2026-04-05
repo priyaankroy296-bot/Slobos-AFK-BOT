@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "abhijeet ka bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "THEFOUNDATION99.aternos.me",
+    "port": 58279,
     "version": "1.21.1"
   },
   "position": {
@@ -28,11 +28,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 100,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a chutiya player like subhodeep",
+        "Subscribe to IMMORTAL xd!",
+        "get job ahahahah!"
       ]
     },
     "chat-log": true,
